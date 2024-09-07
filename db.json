@@ -1,0 +1,23 @@
+{
+  "posts": [
+    {
+      "id": "f4a9",
+      "title": "Dileep",
+      "images": "https://i.ibb.co/yFyCjvh/istockphoto-1498243668-612x612.webp"
+    },
+    {
+      "id": "c2f5",
+      "title": "Updated Burger",
+      "images": "https://i.ibb.co/T4ZVCKL/istockphoto-1498243668-612x612.webp"
+    },
+    {
+      "title": "Replaced Title",
+      "id": "4225"
+    },
+    {
+      "id": "08fa",
+      "title": "bnew burger",
+      "images": "https://i.ibb.co/TghH4JQ/istockphoto-1498243668-612x612.webp"
+    }
+  ]
+}
